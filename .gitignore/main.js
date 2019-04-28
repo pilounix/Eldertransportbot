@@ -28,5 +28,3 @@ bot.on('message', msg => {
 				}, function(err){msg.channel.send("Erreur")})}	
 	}
 });
-
-bot.login("NTcxNzk5MDg0NDIwMzAwODAw.XMWLtg.vEPxOeLe26RGSNVYATmAvFpeesc");
