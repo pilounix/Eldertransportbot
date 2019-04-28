@@ -1,0 +1,10 @@
+{
+	"name": "ElderTransport",
+	"version": "1.0.0",
+	"description": "My discord bot",
+	"main": "main.js",
+	"author": "PilouGaming82#5011",
+	"dependencies": {
+		"discord.js": "^11.4.2"
+	}
+}
